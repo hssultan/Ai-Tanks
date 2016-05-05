@@ -1,0 +1,47 @@
+
+boxes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+box_2x2
+  rotate: false
+  xy: 0, 2
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+box_2x1
+  rotate: false
+  xy: 71, 33
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 141, 33
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+box_small
+  rotate: false
+  xy: 71, 0
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+barrel_side
+  rotate: false
+  xy: 103, 7
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+barrel_top
+  rotate: false
+  xy: 125, 12
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

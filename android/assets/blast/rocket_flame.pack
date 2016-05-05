@@ -1,0 +1,117 @@
+
+rocket_flame.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 0, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 0, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 12, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 12, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 24, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 24, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 36, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 36, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 48, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 48, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 60, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 60, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 72, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 72, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 84, 48
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 84, 0
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1

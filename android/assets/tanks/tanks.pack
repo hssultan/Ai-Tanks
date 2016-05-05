@@ -1,0 +1,54 @@
+
+tanks.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+KV2
+  rotate: false
+  xy: 0, 91
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+PZKPFWIVG
+  rotate: false
+  xy: 0, 3
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+VK3601H
+  rotate: false
+  xy: 46, 94
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+PZKPFWIV
+  rotate: false
+  xy: 90, 95
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+E100
+  rotate: false
+  xy: 45, 19
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+M6
+  rotate: false
+  xy: 79, 0
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+T34
+  rotate: false
+  xy: 117, 33
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1

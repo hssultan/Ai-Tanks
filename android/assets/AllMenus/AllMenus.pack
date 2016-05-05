@@ -1,0 +1,180 @@
+
+AllMenus.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+border
+  rotate: false
+  xy: 0, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+input
+  rotate: false
+  xy: 128, 91
+  size: 195, 49
+  orig: 195, 49
+  offset: 0, 0
+  index: -1
+inputDisabled
+  rotate: false
+  xy: 128, 42
+  size: 195, 49
+  orig: 195, 49
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 323, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+white_panel
+  rotate: false
+  xy: 423, 27
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+artillary
+  rotate: false
+  xy: 523, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cart
+  rotate: false
+  xy: 587, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 651, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+infodown
+  rotate: false
+  xy: 715, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 0, 8
+  size: 124, 4
+  orig: 124, 4
+  offset: 0, 0
+  index: -1
+circledown
+  rotate: false
+  xy: 779, 100
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+infoup
+  rotate: false
+  xy: 523, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+setting
+  rotate: false
+  xy: 587, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+settingdown
+  rotate: false
+  xy: 651, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+circleup
+  rotate: false
+  xy: 779, 60
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bluedown
+  rotate: false
+  xy: 715, 26
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 128, 2
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 197, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+marineup
+  rotate: false
+  xy: 262, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+blueup
+  rotate: false
+  xy: 765, 10
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+orangedown
+  rotate: false
+  xy: 302, 0
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+orangeup
+  rotate: false
+  xy: 342, 0
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+redup
+  rotate: false
+  xy: 382, 0
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 815, 2
+  size: 2, 58
+  orig: 2, 58
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 422, 7
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,754 @@
+
+bunkers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bunkers_2x2-06
+  rotate: false
+  xy: 0, 572
+  size: 196, 204
+  orig: 196, 204
+  offset: 0, 0
+  index: -1
+bunkers_2x2
+  rotate: false
+  xy: 0, 376
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+bunkers_big
+  rotate: false
+  xy: 196, 580
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+bunker_round_1x2_bottom
+  rotate: false
+  xy: 0, 146
+  size: 100, 230
+  orig: 100, 230
+  offset: 0, 0
+  index: -1
+bunker_round_2x1_bottom
+  rotate: false
+  xy: 392, 676
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+bunkers_big_top
+  rotate: false
+  xy: 196, 450
+  size: 172, 130
+  orig: 172, 130
+  offset: 0, 0
+  index: -1
+bunkers_1x2
+  rotate: false
+  xy: 100, 184
+  size: 82, 192
+  orig: 82, 192
+  offset: 0, 0
+  index: -1
+bunkers_2x1
+  rotate: false
+  xy: 392, 594
+  size: 192, 82
+  orig: 192, 82
+  offset: 0, 0
+  index: -1
+bunker_round_2x1_top
+  rotate: false
+  xy: 622, 702
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+bunker_round_2x1_top_destroyed
+  rotate: false
+  xy: 196, 376
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+bunker_round_2x1_top_hit
+  rotate: false
+  xy: 182, 302
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+bunker_2x1_bottom
+  rotate: false
+  xy: 182, 210
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+bunker_1x2_top
+  rotate: false
+  xy: 0, 6
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+bunker_1x2_top_destroyed
+  rotate: false
+  xy: 66, 6
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+bunker_1x2_bottom
+  rotate: false
+  xy: 132, 24
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+bunker_round_1x2_top
+  rotate: false
+  xy: 222, 10
+  size: 74, 200
+  orig: 74, 200
+  offset: 0, 0
+  index: -1
+bunker_round_1x2_top_destroyed
+  rotate: false
+  xy: 296, 10
+  size: 74, 200
+  orig: 74, 200
+  offset: 0, 0
+  index: -1
+platform_big_d
+  rotate: false
+  xy: 822, 722
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+bunker_2x1_bottom_destroyed
+  rotate: false
+  xy: 622, 634
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+bunker_1x1_bottom
+  rotate: false
+  xy: 342, 210
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+bunker_round_1x2_top_hit
+  rotate: false
+  xy: 370, 10
+  size: 74, 200
+  orig: 74, 200
+  offset: 0, 0
+  index: -1
+bunker_2x1_top
+  rotate: false
+  xy: 392, 526
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+bunker_2x1_top_destroyed
+  rotate: false
+  xy: 368, 458
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+bunker_round_bottom
+  rotate: false
+  xy: 396, 358
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bunker_1x2_top_hit
+  rotate: false
+  xy: 434, 218
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+bunker_round_bottom_b
+  rotate: false
+  xy: 444, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bunker_round_bottom_c
+  rotate: false
+  xy: 444, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bunker_2x1_top_hit
+  rotate: false
+  xy: 584, 566
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+platform_big_d_destroyed
+  rotate: false
+  xy: 822, 668
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+platform_big_d_hit
+  rotate: false
+  xy: 762, 648
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+platform_big_b
+  rotate: false
+  xy: 822, 616
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+bunker_round_bottom_d
+  rotate: false
+  xy: 496, 358
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bunkers_1x1
+  rotate: false
+  xy: 500, 278
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+platform_big_b_destroyed
+  rotate: false
+  xy: 500, 226
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+bunkers_1x1b
+  rotate: false
+  xy: 724, 544
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+bunker_round_top_4way
+  rotate: false
+  xy: 804, 540
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+platform_medium
+  rotate: false
+  xy: 100, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gun_small_dual_brown
+  rotate: false
+  xy: 584, 634
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+bunker_1x1_top
+  rotate: false
+  xy: 508, 460
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bunker_round_top_4way_destroyed
+  rotate: false
+  xy: 574, 490
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_1x1_top_destroyed
+  rotate: false
+  xy: 650, 500
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bunker_round_top_4way_hit
+  rotate: false
+  xy: 716, 468
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_down
+  rotate: false
+  xy: 792, 464
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_1x1_top_hit
+  rotate: false
+  xy: 650, 434
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bunker_round_top_down_destroyed
+  rotate: false
+  xy: 716, 392
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_down_hit
+  rotate: false
+  xy: 792, 388
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+gun_medium_dark
+  rotate: false
+  xy: 868, 494
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+gun_medium_dark_destroyed
+  rotate: false
+  xy: 868, 448
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+bunker_round_top_left
+  rotate: false
+  xy: 596, 358
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_left_destroyed
+  rotate: false
+  xy: 590, 282
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+gun_medium_dual_dark
+  rotate: false
+  xy: 672, 388
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+gun_big_tripple
+  rotate: false
+  xy: 532, 536
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+bunker_round_top_left_hit
+  rotate: false
+  xy: 544, 150
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_right
+  rotate: false
+  xy: 544, 74
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+platform_big_c
+  rotate: false
+  xy: 560, 226
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+bunker_round_top_right_destroyed
+  rotate: false
+  xy: 620, 206
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_right_hit
+  rotate: false
+  xy: 620, 130
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_up
+  rotate: false
+  xy: 620, 54
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_up_destroyed
+  rotate: false
+  xy: 666, 282
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bunker_round_top_up_hit
+  rotate: false
+  xy: 696, 206
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+platform_big_c_destroyed
+  rotate: false
+  xy: 544, 22
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+platform_big
+  rotate: false
+  xy: 696, 160
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+platform_big_destroyed
+  rotate: false
+  xy: 696, 114
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+gun_big_tripple_brown
+  rotate: false
+  xy: 696, 56
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+gun_big_B
+  rotate: false
+  xy: 728, 56
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+platform_medium_c
+  rotate: false
+  xy: 574, 458
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gun_medium_dual_dark_destroyed
+  rotate: false
+  xy: 606, 444
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+gun_big
+  rotate: false
+  xy: 604, 0
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+gun_big_destroyed
+  rotate: false
+  xy: 636, 0
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+gun_big_dual
+  rotate: false
+  xy: 668, 0
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+gun_medium_dual_green
+  rotate: false
+  xy: 700, 10
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+gun_big_B_destroyed
+  rotate: false
+  xy: 754, 148
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+gun_big_tripple_brown_destroyed
+  rotate: false
+  xy: 754, 90
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+gun_medium_dual_green_destroyed
+  rotate: false
+  xy: 382, 312
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+platform_small_c
+  rotate: false
+  xy: 672, 358
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+platform_small_c_destroyed
+  rotate: false
+  xy: 694, 358
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+gun_big_dual_destroyed
+  rotate: false
+  xy: 754, 36
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+platform_small
+  rotate: false
+  xy: 744, 0
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+platform_small_b
+  rotate: false
+  xy: 780, 0
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+platform_medium_c_destroyed
+  rotate: false
+  xy: 716, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+platform_medium_b
+  rotate: false
+  xy: 748, 352
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+gun_big_tripple_dark
+  rotate: false
+  xy: 742, 294
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+gun_big_tripple_dark_destroyed
+  rotate: false
+  xy: 774, 294
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+platform_small_b_destroyed
+  rotate: false
+  xy: 788, 352
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+gun_big_tripple_destroyed
+  rotate: false
+  xy: 772, 236
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+platform_medium_b_destroyed
+  rotate: false
+  xy: 824, 348
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+platform_medium_d
+  rotate: false
+  xy: 806, 308
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+platform_small_destroyed
+  rotate: false
+  xy: 846, 312
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+platform_small_d
+  rotate: false
+  xy: 772, 206
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+gun_small_red
+  rotate: false
+  xy: 368, 538
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+gun_small_dual_brown_destroyed
+  rotate: false
+  xy: 780, 164
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+platform_medium_d_destroyed
+  rotate: false
+  xy: 806, 268
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+platform_medium_d_hit
+  rotate: false
+  xy: 804, 228
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+gun_small_dual_red
+  rotate: false
+  xy: 846, 270
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+platform_round_big
+  rotate: false
+  xy: 806, 188
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+platform_round_big_destroyed
+  rotate: false
+  xy: 806, 148
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+gun_small_dual_red_destroyed
+  rotate: false
+  xy: 786, 106
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+platform_medium_c_hit
+  rotate: false
+  xy: 812, 116
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gun_small_red_destroyed
+  rotate: false
+  xy: 786, 64
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+gun_small_brown
+  rotate: false
+  xy: 802, 68
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+platform_medium_destroyed
+  rotate: false
+  xy: 818, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gun_small_brown_b
+  rotate: false
+  xy: 864, 350
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+gun_small_brown_b_destroyed
+  rotate: false
+  xy: 844, 230
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+platform_small_d_destroyed
+  rotate: false
+  xy: 860, 240
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+gun_small_brown_destroyed
+  rotate: false
+  xy: 846, 192
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+gun_small_red_b
+  rotate: false
+  xy: 846, 154
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+gun_small_red_b_destroyed
+  rotate: false
+  xy: 862, 202
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1

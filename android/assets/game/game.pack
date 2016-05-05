@@ -1,0 +1,138 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+border
+  rotate: false
+  xy: 0, 13
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rsz_yellow
+  rotate: false
+  xy: 0, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 128, 45
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+grayup
+  rotate: false
+  xy: 128, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+paneloption
+  rotate: false
+  xy: 172, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 192, 66
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 192, 45
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 213, 46
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+base_img
+  rotate: false
+  xy: 216, 0
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+alive
+  rotate: false
+  xy: 262, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 267, 77
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 326, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bluedown
+  rotate: false
+  xy: 331, 91
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+blueup
+  rotate: false
+  xy: 381, 91
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 431, 101
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 431, 65
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+marineup
+  rotate: false
+  xy: 390, 51
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 430, 25
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 390, 19
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

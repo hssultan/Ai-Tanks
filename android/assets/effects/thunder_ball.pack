@@ -1,0 +1,145 @@
+
+thunder_ball.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 0, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 0, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 56, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 56, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 112, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 112, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 168, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 168, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 224, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 224, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 280, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 280, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 336, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 336, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 392, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 392, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 448, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 448, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 504, 65
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 504, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1

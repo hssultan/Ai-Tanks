@@ -1,0 +1,299 @@
+
+house.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+house
+  rotate: false
+  xy: 0, 404
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: 2
+house_2b
+  rotate: false
+  xy: 0, 274
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2b_destroyed
+  rotate: false
+  xy: 0, 144
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2b_hit
+  rotate: false
+  xy: 0, 14
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2b_sahdow
+  rotate: false
+  xy: 126, 404
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2_destroyed
+  rotate: false
+  xy: 126, 274
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2_hit
+  rotate: false
+  xy: 126, 144
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+house_2_shadow
+  rotate: false
+  xy: 126, 14
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+ruin
+  rotate: false
+  xy: 252, 434
+  size: 142, 100
+  orig: 142, 100
+  offset: 0, 0
+  index: 2
+house
+  rotate: false
+  xy: 394, 420
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: 1
+house_1b
+  rotate: false
+  xy: 252, 320
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1b_destroyed
+  rotate: false
+  xy: 252, 206
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1b_hit
+  rotate: false
+  xy: 252, 92
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+ruin
+  rotate: false
+  xy: 252, 0
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: 3
+house_1b_shadow
+  rotate: false
+  xy: 372, 306
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1c
+  rotate: false
+  xy: 372, 192
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_2c
+  rotate: false
+  xy: 372, 101
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_2c_destroyed
+  rotate: false
+  xy: 388, 10
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_2c_hit
+  rotate: false
+  xy: 460, 101
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_2c_shadow
+  rotate: false
+  xy: 476, 10
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_1c_destroyed
+  rotate: false
+  xy: 492, 306
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1c_hit
+  rotate: false
+  xy: 514, 420
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1c_shadow
+  rotate: false
+  xy: 492, 192
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_2d
+  rotate: false
+  xy: 548, 101
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_2d_destroyed
+  rotate: false
+  xy: 564, 10
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_1_destroyed
+  rotate: false
+  xy: 612, 306
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1_hit
+  rotate: false
+  xy: 634, 420
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_1_shadow
+  rotate: false
+  xy: 612, 192
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+house_2d_hit
+  rotate: false
+  xy: 636, 101
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+house_2d_sahdow
+  rotate: false
+  xy: 652, 10
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+ruin
+  rotate: false
+  xy: 724, 118
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: 5
+ruin
+  rotate: false
+  xy: 740, 4
+  size: 87, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: 6
+ruin
+  rotate: false
+  xy: 826, 458
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: 1
+ruin
+  rotate: false
+  xy: 754, 446
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: 4
+house_1d
+  rotate: false
+  xy: 820, 378
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1d_destroyed
+  rotate: false
+  xy: 732, 340
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1d_shadow
+  rotate: false
+  xy: 816, 298
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1e
+  rotate: false
+  xy: 732, 260
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1e_destroyed
+  rotate: false
+  xy: 816, 218
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1d_hit
+  rotate: false
+  xy: 732, 193
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+house_1e_hit
+  rotate: false
+  xy: 826, 138
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+house_1e_shadow
+  rotate: false
+  xy: 827, 58
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
